@@ -1,0 +1,15 @@
+base=https://github.com/oleg-lukasonok/shell-scripts-base.git
+copier=https://github.com/oleg-lukasonok/shell-scripts-copier.git
+curl=https://github.com/oleg-lukasonok/shell-scripts-curl.git
+loggers=https://github.com/oleg-lukasonok/shell-scripts-loggers.git
+minikube=https://github.com/oleg-lukasonok/shell-scripts-minikube.git
+nvm=https://github.com/oleg-lukasonok/shell-scripts-nvm.git
+nvm-node=https://github.com/oleg-lukasonok/shell-scripts-nvm-node.git
+openssl=https://github.com/oleg-lukasonok/shell-scripts-openssl.git
+os-manager=https://github.com/oleg-lukasonok/shell-scripts-os-manager.git
+podman=https://github.com/oleg-lukasonok/shell-scripts-podman.git
+warp=https://github.com/oleg-lukasonok/shell-scripts-warp.git
+yarn=https://github.com/oleg-lukasonok/shell-scripts-yarn.git
+zsh=https://github.com/oleg-lukasonok/shell-scripts-zsh.git
+zsh-oh-my-zsh=https://github.com/oleg-lukasonok/shell-scripts-zsh-oh-my-zsh.git
+zshrc=https://github.com/oleg-lukasonok/shell-scripts-zshrc.git

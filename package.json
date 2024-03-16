@@ -1,0 +1,11 @@
+{
+  "name": "lego-osx-terminal",
+  "version": "0.0.1",
+  "description": "This repository is dedicated to provide command line scripts for quick prox-mox setup",
+  "repository": "https://github.com/oleg-lukasonok/lego-osx-terminal.git",
+  "author": "lego <oleg.lukasonok@lt.ibm.com>",
+  "license": "MIT",
+  "private": false,
+  "main": "src/index.js",
+  "dependencies": {}
+}
