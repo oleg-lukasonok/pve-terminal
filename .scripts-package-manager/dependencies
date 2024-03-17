@@ -1,5 +1,5 @@
 base=https://github.com/oleg-lukasonok/shell-scripts-base.git
-claudflared=https://github.com/oleg-lukasonok/shell-scripts-claudflared.git
+cloudflared=https://github.com/oleg-lukasonok/shell-scripts-cloudflared.git
 copier=https://github.com/oleg-lukasonok/shell-scripts-copier.git
 curl=https://github.com/oleg-lukasonok/shell-scripts-curl.git
 loggers=https://github.com/oleg-lukasonok/shell-scripts-loggers.git
